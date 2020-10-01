@@ -1,2 +1,2 @@
 # FormAutomation
-Script that automates the the filing of a form
+Script that automates the filing out of a form.
